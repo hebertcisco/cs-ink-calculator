@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hebert\\source\\repos\\ink-calculator\\CalcPaint\\CalcPaint.csproj": {}
+    "c:\\Users\\hebert\\source\\repos\\ink-calculator\\CalcPaint\\CalcPaint.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hebert\\source\\repos\\ink-calculator\\CalcPaint\\CalcPaint.csproj": {
+    "c:\\Users\\hebert\\source\\repos\\ink-calculator\\CalcPaint\\CalcPaint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hebert\\source\\repos\\ink-calculator\\CalcPaint\\CalcPaint.csproj",
+        "projectUniqueName": "c:\\Users\\hebert\\source\\repos\\ink-calculator\\CalcPaint\\CalcPaint.csproj",
         "projectName": "CalcPaint",
-        "projectPath": "C:\\Users\\hebert\\source\\repos\\ink-calculator\\CalcPaint\\CalcPaint.csproj",
+        "projectPath": "c:\\Users\\hebert\\source\\repos\\ink-calculator\\CalcPaint\\CalcPaint.csproj",
         "packagesPath": "C:\\Users\\hebert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hebert\\source\\repos\\ink-calculator\\CalcPaint\\obj\\",
+        "outputPath": "c:\\Users\\hebert\\source\\repos\\ink-calculator\\CalcPaint\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hebert\\AppData\\Roaming\\NuGet\\NuGet.Config",
