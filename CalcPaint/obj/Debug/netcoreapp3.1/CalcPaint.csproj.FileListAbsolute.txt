@@ -1,0 +1,13 @@
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\bin\Debug\netcoreapp3.1\CalcPaint.exe
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\bin\Debug\netcoreapp3.1\CalcPaint.deps.json
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\bin\Debug\netcoreapp3.1\CalcPaint.runtimeconfig.json
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\bin\Debug\netcoreapp3.1\CalcPaint.runtimeconfig.dev.json
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\bin\Debug\netcoreapp3.1\CalcPaint.dll
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\bin\Debug\netcoreapp3.1\CalcPaint.pdb
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\obj\Debug\netcoreapp3.1\CalcPaint.csprojAssemblyReference.cache
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\obj\Debug\netcoreapp3.1\CalcPaint.csproj.CoreCompileInputs.cache
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\obj\Debug\netcoreapp3.1\CalcPaint.AssemblyInfoInputs.cache
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\obj\Debug\netcoreapp3.1\CalcPaint.AssemblyInfo.cs
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\obj\Debug\netcoreapp3.1\CalcPaint.dll
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\obj\Debug\netcoreapp3.1\CalcPaint.pdb
+C:\Users\hebert\source\repos\CalcPaint\CalcPaint\obj\Debug\netcoreapp3.1\CalcPaint.genruntimeconfig.cache
